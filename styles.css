@@ -14,12 +14,12 @@ svg{
 
 #legend{
   padding: 10px;
-  width: 100%;
+  width: 800;
   margin-left: 10px;;
 }
 
 #tooltip{
-  visibility: hidden;
+  /* visibility: hidden; */
   height:auto;
-  width: auto;
+  width: 800;
 }
