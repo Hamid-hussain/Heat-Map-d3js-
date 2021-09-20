@@ -1,0 +1,25 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  height: 100%;
+  width: 100%;
+}
+
+svg{
+  background-color:#736598;
+}
+
+#legend{
+  padding: 10px;
+  width: 100%;
+  margin-left: 10px;;
+}
+
+#tooltip{
+  visibility: hidden;
+  height:auto;
+  width: auto;
+}
